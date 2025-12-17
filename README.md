@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square&label=Visitors)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ProsperityAmadi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xprosperthedev) 
