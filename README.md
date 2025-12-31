@@ -37,13 +37,16 @@ DevOps Engineer
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Prosperityamadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Prosperityamadi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prosperityamadi&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prosperityamadi&theme=dark&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Prosperityamadi&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prosperityamadi&theme=dark&layout=compact)
 
 ---
 
-<img width="1763" height="460" alt="image" src="https://github.com/user-attachments/assets/9679701e-a3f6-4c74-aaa2-ab78890b5068" />
+## 👀 GitHub Activity
+
+![GitHub followers](https://img.shields.io/github/followers/Prosperityamadi?label=Followers&style=social)
+
 
