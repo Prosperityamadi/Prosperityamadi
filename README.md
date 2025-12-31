@@ -47,8 +47,15 @@ DevOps Engineer
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Prosperityamadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prosperityamadi&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Prosperityamadi&icon=0&color=0)
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Prosperityamadi&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</p>
