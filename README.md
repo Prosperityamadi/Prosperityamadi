@@ -1,7 +1,7 @@
 # 💫 About Me
 Backend Engineer  
-Mobile & Web Application Developer  
-DevOps Engineer  
+Mobile Developer  
+Aspiring DevOps Engineer  
 
 ---
 
