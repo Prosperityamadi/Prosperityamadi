@@ -1,5 +1,5 @@
 # 💫 About Me
-Backend Engineer  
+Software Engineer  
 Mobile Application Developer  
 Aspiring DevOps Engineer  
 
