@@ -1,7 +1,7 @@
 # 💫 About Me
 Software Engineer  
 Mobile Application Developer  
-Aspiring DevOps Engineer  
+
 
 ---
 
