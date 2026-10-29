@@ -1,6 +1,6 @@
 # 💫 About Me
 Software Engineer  
-Mobile Application Developer  
+
 
 
 ---
